@@ -1,6 +1,6 @@
 # VQA_CV_BoseHubbard
 
-We give here a sample python code for the simulation of a Variational Quantum Algorithm (VQA) to encode a strongly correlated many-bosons wavefunction on a continuous-Variable photonic device. The targeted problem is here to encode ground state of the attractive Bose-Hubbard model. 
+We give here a sample python code for the simulation of a Variational Quantum Algorithm (VQA) to encode a strongly correlated many-bosons wavefunction on a continuous-Variable photonic device. Here, the targeted problem is the ground state of the attractive Bose-Hubbard model. 
 
 The code is based on two important sections:
 
